@@ -1,0 +1,8 @@
+widowx:6:4096:4096:4096:4096:4096:4096
+Pose=Down Gripper:2427, 2257, 1922, 1368, 793, 149
+Pose=Up:2247, 1674, 2237, 2556, 488, 476
+Pose=Turn:3291, 2351, 1665, 3067, 828, 474
+Pose=Sleep:2083, 931, 1039, 1677, 486, 476
+Pose=Home:2160, 1514, 1657, 1601, 486, 476
+Pose=Right Angle:2222, 2021, 2019, 1988, 829, 476
+Seq=Test Sequence: Sleep|1500, Home|1000, Up|500, Down Gripper|5000, Right Angle|3000, Turn|5000
